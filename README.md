@@ -67,7 +67,7 @@ npm run dev
 
 # Workflow of Application
 
-![Workflow](readme_img/techstack.png)
+![Workflow](backend/readme_img/techstack.png)
 
 
 
